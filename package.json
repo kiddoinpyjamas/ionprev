@@ -12,7 +12,7 @@
   "dependencies": {
     "connect-history-api-fallback": "^1.6.0",
     "core-js": "^2.6.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-http-to-https": "^1.1.4",
     "path": "^0.12.7",
     "register-service-worker": "^1.6.2",
